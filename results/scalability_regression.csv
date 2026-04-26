@@ -1,0 +1,7 @@
+dataset,algorithm,pearson_r,pearson_p,r2_linear,r2_quadratic,slope_linear,best_fit_model
+BMSWebView2,CMRules,0.9651,0.007792,0.9314,0.9414,1.85e-06,linear
+BMSWebView2,ERMiner,0.8716,0.054124,0.7598,0.8126,1.1e-06,linear
+BMSWebView2,RuleGrowth,0.9301,0.021956,0.8651,0.8662,1e-06,linear
+Leviathan,CMRules,0.9834,0.002564,0.967,0.968,0.00010849,linear
+Leviathan,ERMiner,0.9459,0.014967,0.8948,0.9152,2.313e-05,linear
+Leviathan,RuleGrowth,0.9134,0.030168,0.8344,0.8639,1.821e-05,linear
